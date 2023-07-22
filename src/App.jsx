@@ -38,7 +38,7 @@ import { BrowserRouter, Route, Routes } from "react-router-dom";
 import Home from "./pages/Home";
 import Login from "./pages/Login";
 import Register from "./pages/Register";
-import Navbar from "./components/Navbar";
+import Navbar from "./components/Navbar.jsx";
 import { Container } from "@mui/material";
 import CreatePost from "./pages/CreatePost";
 import Footer from "./components/Footer";
